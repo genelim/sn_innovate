@@ -24,6 +24,101 @@
             <element>u_requesttype</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Imported record 1</label>
+            <language>en</language>
+            <name>x_489884_hello_wor_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 04:28:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81239ffadbfa1010fcdf87423996196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 04:28:04</sys_updated_on>
+            <value>Imported record 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requesttype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Imported record 2</label>
+            <language>en</language>
+            <name>x_489884_hello_wor_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 04:28:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85239ffadbfa1010fcdf8742399619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 04:28:04</sys_updated_on>
+            <value>Imported record 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requesttype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Imported record 3</label>
+            <language>en</language>
+            <name>x_489884_hello_wor_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 04:28:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5239ffadbfa1010fcdf8742399619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 04:28:04</sys_updated_on>
+            <value>Imported record 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requesttype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Imported record 4</label>
+            <language>en</language>
+            <name>x_489884_hello_wor_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 04:28:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09239ffadbfa1010fcdf8742399619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 04:28:04</sys_updated_on>
+            <value>Imported record 4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requesttype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Imported record 5</label>
+            <language>en</language>
+            <name>x_489884_hello_wor_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 04:28:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49239ffadbfa1010fcdf8742399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 04:28:04</sys_updated_on>
+            <value>Imported record 5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requesttype</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Facilities</label>
             <language>en</language>
             <name>x_489884_hello_wor_needit</name>
