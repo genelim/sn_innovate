@@ -4,29 +4,15 @@
             <element>u_string_5</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-23 11:47:41</sys_created_on>
-            <sys_id>f16158f1db325010fcdf874239961964</sys_id>
+            <sys_created_on>2020-09-08 08:07:53</sys_created_on>
+            <sys_id>9e88b532db431010fcdf874239961937</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_489884_hello_wor_needit" sys_domain="global" view="Default view">216118f1db325010fcdf8742399619f0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-23 11:47:41</sys_updated_on>
+            <sys_updated_on>2020-09-08 08:07:53</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>activity.xml</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-23 11:47:41</sys_created_on>
-            <sys_id>756158f1db325010fcdf874239961964</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
-            <sys_ui_section caption="Log" display_value="Log" name="x_489884_hello_wor_needit" sys_domain="global" view="Default view">216118f1db325010fcdf8742399619f0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-23 11:47:41</sys_updated_on>
-            <sys_user/>
-            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Log</caption>
