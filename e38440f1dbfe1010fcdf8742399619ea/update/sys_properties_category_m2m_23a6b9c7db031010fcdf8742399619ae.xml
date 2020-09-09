@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="NeedIt Properties">2b937547db031010fcdf8742399619cc</category>
+        <order>100</order>
+        <property display_value="x_489884_hello_wor.autoCloseOverdue" name="x_489884_hello_wor.autoCloseOverdue">3ee3b947db031010fcdf874239961970</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 02:38:16</sys_created_on>
+        <sys_id>23a6b9c7db031010fcdf8742399619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_489884_hello_wor.autoCloseOverdue.NeedIt Properties</sys_name>
+        <sys_package display_value="Hello World" source="x_489884_hello_wor">e38440f1dbfe1010fcdf8742399619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">e38440f1dbfe1010fcdf8742399619ea</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_23a6b9c7db031010fcdf8742399619ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 02:38:16</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
