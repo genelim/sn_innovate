@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Next Quarter Data</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Paper-Plane">6626d0ebdbc31010fcdf874239961910</icon>
+        <name>NeedIt Next Quarter</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-10 08:53:33</sys_created_on>
+        <sys_id>6226d0ebdbc31010fcdf874239961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Next Quarter</sys_name>
+        <sys_package display_value="Hello World" source="x_489884_hello_wor">e38440f1dbfe1010fcdf8742399619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">e38440f1dbfe1010fcdf8742399619ea</sys_scope>
+        <sys_update_name>sys_sg_list_screen_6226d0ebdbc31010fcdf874239961915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-10 08:53:33</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=6226d0ebdbc31010fcdf874239961915"/>
+</record_update>
