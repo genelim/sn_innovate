@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <category/>
+        <channels/>
+        <connect_queue/>
+        <description>Virtual Agent Conversation Topics for the NeedIt application</description>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph>{"graph_api_version":"1.0.21","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"c24659e8b40a418aa21cbadad0f256e9":{"id":"c24659e8b40a418aa21cbadad0f256e9","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"c20ef8305b024edfbd8d00784eb39d90":{"id":"c20ef8305b024edfbd8d00784eb39d90","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"20a58f5c94a44c66b8266ac802c60116","edgeType":"Edge","source":"c24659e8b40a418aa21cbadad0f256e9","target":"c20ef8305b024edfbd8d00784eb39d90","sourcePort":"","targetPort":""}]}}}</graph>
+        <key_phrases>NeedIt Virtual Agent Conversations</key_phrases>
+        <library>false</library>
+        <live_agent>false</live_agent>
+        <name>NeedIt Virtual Agent Conversations</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <roles/>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 03:22:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>6a9d4329db935010fcdf8742399619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Virtual Agent Conversations</sys_name>
+        <sys_package display_value="Hello World" source="x_489884_hello_wor">e38440f1dbfe1010fcdf8742399619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">e38440f1dbfe1010fcdf8742399619ea</sys_scope>
+        <sys_update_name>sys_cb_topic_6a9d4329db935010fcdf8742399619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 03:22:51</sys_updated_on>
+        <type>STANDARD</type>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="delete_multiple" query="document_key=6a9d4329db935010fcdf8742399619c5"/>
+</record_update>
