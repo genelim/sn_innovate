@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter">
+    <sys_ws_query_parameter action="DELETE">
+        <example_value/>
+        <name>ni_query</name>
+        <required>false</required>
+        <short_description/>
+        <sys_class_name>sys_ws_query_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-18 02:26:50</sys_created_on>
+        <sys_id>525a0846dbdf5010fcdf874239961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ni_query</sys_name>
+        <sys_package display_value="Hello World" source="x_489884_hello_wor">e38440f1dbfe1010fcdf8742399619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">e38440f1dbfe1010fcdf8742399619ea</sys_scope>
+        <sys_update_name>sys_ws_query_parameter_525a0846dbdf5010fcdf874239961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-18 02:26:50</sys_updated_on>
+        <web_service_definition display_value="Needit API">44098446dbdf5010fcdf874239961902</web_service_definition>
+    </sys_ws_query_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">e38440f1dbfe1010fcdf8742399619ea</application>
+        <file_path/>
+        <instance_id>1104b936dbab17c8ff27d5b0cf961954</instance_id>
+        <instance_name>dev68090</instance_name>
+        <name>sys_ws_query_parameter_525a0846dbdf5010fcdf874239961959</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter"><sys_ws_query_parameter action="INSERT_OR_UPDATE"><example_value/><name>ni_query</name><required>false</required><short_description/><sys_class_name>sys_ws_query_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-18 02:26:50</sys_created_on><sys_id>525a0846dbdf5010fcdf874239961959</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ni_query</sys_name><sys_package display_value="Hello World" source="x_489884_hello_wor">e38440f1dbfe1010fcdf8742399619ea</sys_package><sys_policy/><sys_scope display_value="Hello World">e38440f1dbfe1010fcdf8742399619ea</sys_scope><sys_update_name>sys_ws_query_parameter_525a0846dbdf5010fcdf874239961959</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-18 02:26:50</sys_updated_on><web_service_definition display_value="Needit API">44098446dbdf5010fcdf874239961902</web_service_definition></sys_ws_query_parameter></record_update>]]></payload>
+        <payload_hash>1744007791</payload_hash>
+        <record_name>ni_query</record_name>
+        <reverted_from/>
+        <source>641ea943db031010fcdf8742399619cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-18 02:26:50</sys_created_on>
+        <sys_id>3b5a0486dbdf5010fcdf874239961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1749f0924510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-18 02:26:50</sys_updated_on>
+        <type>Scripted REST Query Parameter</type>
+        <update_guid>735a048692df50105e5d3c0b623f7e08</update_guid>
+        <update_guid_history>735a048692df50105e5d3c0b623f7e08:1744007791</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-18 02:32:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_query_parameter">sys_ws_query_parameter</sys_db_object>
+        <sys_id>0efa976e884f4a5c8f392796f686c7c9</sys_id>
+        <sys_metadata>525a0846dbdf5010fcdf874239961959</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ni_query</sys_name>
+        <sys_package display_value="Hello World" source="x_489884_hello_wor">e38440f1dbfe1010fcdf8742399619ea</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">e38440f1dbfe1010fcdf8742399619ea</sys_scope>
+        <sys_scope_delete display_value="">287049abf5d4486c8722708b810ce2a1</sys_scope_delete>
+        <sys_update_name>sys_ws_query_parameter_525a0846dbdf5010fcdf874239961959</sys_update_name>
+        <sys_update_version display_value="sys_ws_query_parameter_525a0846dbdf5010fcdf874239961959">3b5a0486dbdf5010fcdf874239961908</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-18 02:32:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
